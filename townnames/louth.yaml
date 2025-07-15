@@ -1,0 +1,483 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Aby
+    probability: 1
+  - name: Algarkirk
+    probability: 1
+  - name: Allington
+    probability: 1
+  - name: Althorpe
+    probability: 1
+  - name: Alvingham
+    probability: 1
+  - name: Ancaster
+    probability: 1
+  - name: Apley
+    probability: 1
+  - name: Appleby
+    probability: 1
+  - name: Asgarby
+    probability: 1
+  - name: Aunby
+    probability: 1
+  - name: Authorpe
+    probability: 1
+  - name: Bardney
+    probability: 1
+  - name: Barkston
+    probability: 1
+  - name: Barnetby Le Wolds
+    probability: 1
+  - name: Barrow Haven
+    probability: 1
+  - name: Barrow Upon Humber
+    probability: 1
+  - name: Bassingthorpe
+    probability: 1
+  - name: Baston
+    probability: 1
+  - name: Beckingham
+    probability: 1
+  - name: Belton
+    probability: 1
+  - name: Benington
+    probability: 1
+  - name: Billingborough
+    probability: 1
+  - name: Bilsby
+    probability: 1
+  - name: Bitchfield
+    probability: 1
+  - name: Blankney
+    probability: 1
+  - name: Blyton
+    probability: 1
+  - name: Boswell
+    probability: 1
+  - name: Braceborough
+    probability: 1
+  - name: Braceby
+    probability: 1
+  - name: Bradley
+    probability: 1
+  - name: Brampton
+    probability: 1
+  - name: Brandon
+    probability: 1
+  - name: Branston
+    probability: 1
+  - name: Brocklesby
+    probability: 1
+  - name: Bucknall
+    probability: 1
+  - name: Burnham
+    probability: 1
+  - name: Burton-by-Lincoln
+    probability: 1
+  - name: Burton Coggles
+    probability: 1
+  - name: Burton Upon Stather
+    probability: 1
+  - name: Burwell
+    probability: 1
+  - name: Butterwick
+    probability: 1
+  - name: Candlesby
+    probability: 1
+  - name: Careby
+    probability: 1
+  - name: Carlton Scroop
+    probability: 1
+  - name: Carrington
+    probability: 1
+  - name: Castle Bytham
+    probability: 1
+  - name: Cawkwell
+    probability: 1
+  - name: Caythorpe
+    probability: 1
+  - name: Church End
+    probability: 1
+  - name: Claxby
+    probability: 1
+  - name: Claypole
+    probability: 1
+  - name: Coates
+    probability: 1
+  - name: Colsterworth
+    probability: 1
+  - name: Coningsby
+    probability: 1
+  - name: Corby Glen
+    probability: 1
+  - name: Corringham
+    probability: 1
+  - name: Counthorpe
+    probability: 1
+  - name: Cowbit
+    probability: 1
+  - name: Cranwell
+    probability: 1
+  - name: Creeton
+    probability: 1
+  - name: Croft
+    probability: 1
+  - name: Croxton
+    probability: 1
+  - name: Dalby
+    probability: 1
+  - name: Deeping St James
+    probability: 1
+  - name: Deeping St Nicholas
+    probability: 1
+  - name: Denton
+    probability: 1
+  - name: Digby
+    probability: 1
+  - name: Doddington
+    probability: 1
+  - name: Dogdyke
+    probability: 1
+  - name: Donington
+    probability: 1
+  - name: Donington on Bain
+    probability: 1
+  - name: Dorrington
+    probability: 1
+  - name: Dunston
+    probability: 1
+  - name: Dyke
+    probability: 1
+  - name: Eagle
+    probability: 1
+  - name: Ealand
+    probability: 1
+  - name: East Barkwith
+    probability: 1
+  - name: East Halton
+    probability: 1
+  - name: Eastoft
+    probability: 1
+  - name: Easton
+    probability: 1
+  - name: Eastville
+    probability: 1
+  - name: Edenham
+    probability: 1
+  - name: Edlington
+    probability: 1
+  - name: Farlesthorpe
+    probability: 1
+  - name: Fenton
+    probability: 1
+  - name: Fillingham
+    probability: 1
+  - name: Firsby
+    probability: 1
+  - name: Fishtoft
+    probability: 1
+  - name: Fiskerton
+    probability: 1
+  - name: Fleet
+    probability: 1
+  - name: Folkingham
+    probability: 1
+  - name: Fordington
+    probability: 1
+  - name: Fosdyke
+    probability: 1
+  - name: Fotherby
+    probability: 1
+  - name: Frampton
+    probability: 1
+  - name: Frithville
+    probability: 1
+  - name: Fulbeck
+    probability: 1
+  - name: Filstow
+    probability: 1
+  - name: Garthorpe
+    probability: 1
+  - name: Gedney
+    probability: 1
+  - name: Gedney Hill
+    probability: 1
+  - name: Gosberton
+    probability: 1
+  - name: Goxhill
+    probability: 1
+  - name: Greatford
+    probability: 1
+  - name: Great Gonerby
+    probability: 1
+  - name: Great Ponton
+    probability: 1
+  - name: Greetham
+    probability: 1
+  - name: Grimboldby
+    probability: 1
+  - name: Gunby
+    probability: 1
+  - name: Gunthrope
+    probability: 1
+  - name: Habrough
+    probability: 1
+  - name: Haddington
+    probability: 1
+  - name: Hagnaby
+    probability: 1
+  - name: Hallington
+    probability: 1
+  - name: Halton Fenside
+    probability: 1
+  - name: Halton Holegate
+    probability: 1
+  - name: Hanby
+    probability: 1
+  - name: Hannah
+    probability: 1
+  - name: Hanthorpe
+    probability: 1
+  - name: Hardwick
+    probability: 1
+  - name: Harlaxton
+    probability: 1
+  - name: Harmston
+    probability: 1
+  - name: Harrington
+    probability: 1
+  - name: Hatton
+    probability: 1
+  - name: Haxey
+    probability: 1
+  - name: Heathfield
+    probability: 1
+  - name: Heckington
+    probability: 1
+  - name: Heighington
+    probability: 1
+  - name: Helpringham
+    probability: 1
+  - name: Hemingby
+    probability: 1
+  - name: Holbeck
+    probability: 1
+  - name: Holme
+    probability: 1
+  - name: Holton le Clay
+    probability: 1
+  - name: Holton le Moor
+    probability: 1
+  - name: Holywell
+    probability: 1
+  - name: Honington
+    probability: 1
+  - name: Hop Pole
+    probability: 1
+  - name: Horbling
+    probability: 1
+  - name: Hougham
+    probability: 1
+  - name: Hough-on-the-Hill
+    probability: 1
+  - name: Howell
+    probability: 1
+  - name: Hubberts Bridge
+    probability: 1
+  - name: Humberston
+    probability: 1
+  - name: Humberston Fitties
+    probability: 1
+  - name: Ingham
+    probability: 1
+  - name: Ingleby
+    probability: 1
+  - name: Irnham
+    probability: 1
+  - name: Keadby
+    probability: 1
+  - name: Keisby
+    probability: 1
+  - name: Kelby
+    probability: 1
+  - name: Kettlethorpe
+    probability: 1
+  - name: Kingthorpe
+    probability: 1
+  - name: Kirkby
+    probability: 1
+  - name: Kirmington
+    probability: 1
+  - name: Kirton
+    probability: 1
+  - name: Langrick
+    probability: 1
+  - name: Langton
+    probability: 1
+  - name: Laughterton
+    probability: 1
+  - name: Laughton
+    probability: 1
+  - name: Lea
+    probability: 1
+  - name: Legbourne
+    probability: 1
+  - name: Legsby
+    probability: 1
+  - name: Lenton
+    probability: 1
+  - name: Leverton
+    probability: 1
+  - name: Linwood
+    probability: 1
+  - name: Lissington
+    probability: 1
+  - name: Little Bytham
+    probability: 1
+  - name: Little London
+    probability: 1
+  - name: Little Ponton
+    probability: 1
+  - name: Little Steeping
+    probability: 1
+  - name: Little Sutton
+    probability: 1
+  - name: Lound
+    probability: 1
+  - name: Ludborough
+    probability: 1
+  - name: Luddington
+    probability: 1
+  - name: Lusby
+    probability: 1
+  - name: Maidenwell
+    probability: 1
+  - name: Maltby
+    probability: 1
+  - name: Manby
+    probability: 1
+  - name: Manthorpe
+    probability: 1
+  - name: Manton
+    probability: 1
+  - name: Mareham le Fen
+    probability: 1
+  - name: Marston
+    probability: 1
+  - name: Martin
+    probability: 1
+  - name: Martin Dales
+    probability: 1
+  - name: Messingham
+    probability: 1
+  - name: Metheringham
+    probability: 1
+  - name: Midville
+    probability: 1
+  - name: Moortown
+    probability: 1
+  - name: Morton
+    probability: 1
+  - name: Moulton
+    probability: 1
+  - name: Mumby
+    probability: 1
+  - name: Navenby
+    probability: 1
+  - name: Nettleton
+    probability: 1
+  - name: New Bolingbroke
+    probability: 1
+  - name: New End
+    probability: 1
+  - name: New England
+    probability: 1
+  - name: Old Bolingbroke
+    probability: 1
+  - name: Alford
+    probability: 1
+  - name: Barton upon Humber
+    probability: 1
+  - name: Boston
+    probability: 1
+  - name: Bourne
+    probability: 1
+  - name: Brigg
+    probability: 1
+  - name: Broughton
+    probability: 1
+  - name: Burgh-le-Marsh
+    probability: 2
+  - name: Cleethorpes
+    probability: 1
+  - name: Crowland
+    probability: 1
+  - name: Crowle
+    probability: 1
+  - name: Epworth
+    probability: 1
+  - name: Gainsborough
+    probability: 1
+  - name: Grantham
+    probability: 1
+  - name: Grimsby
+    probability: 1
+  - name: Holbeach
+    probability: 1
+  - name: Horncastle
+    probability: 1
+  - name: Immingham
+    probability: 1
+  - name: Kirton in Lindsey
+    probability: 1
+  - name: Long Sutton
+    probability: 1
+  - name: Louth
+    probability: 1
+  - name: Mablethrope
+    probability: 1
+  - name: Market Deeping
+    probability: 1
+  - name: Market Rasen
+    probability: 1
+  - name: North Hykeham
+    probability: 1
+  - name: Scunthorpe
+    probability: 1
+  - name: Skegness
+    probability: 1
+  - name: Sleaford
+    probability: 1
+  - name: Spalding
+    probability: 1
+  - name: Spilsby
+    probability: 1
+  - name: Stamford
+    probability: 1
+  - name: Wainfleet All Saints
+    probability: 1
+  - name: Waintfleet St Marys
+    probability: 1
+  - name: Winterton
+    probability: 1
+  - name: Woodhall Spa
+    probability: 1
+  - name: Lincoln
+    probability: 1
+  - name: Seacroft
+    probability: 1
+  - name: Sandilands
+    probability: 1
+  - name: Old Leake
+    probability: 1
+  - name: Hannah cum Hagnaby
+    probability: 1
+  - name: Great Steeping
+    probability: 1
+  - name: Well
+    probability: 1
+name: Louth
+source: null
+subsets: []
